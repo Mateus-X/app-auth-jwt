@@ -1,0 +1,16 @@
+{
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "roles": ["user"],
+    "isActive": false,
+    "createdAt": "2023-09-15T08:30:00Z",
+    "profile": {
+        "age": 25,
+        "gender": "female",
+        "preferences": {
+            "newsletter": false,
+            "notifications": ["push"]
+        }
+    }
+}

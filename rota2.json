@@ -1,0 +1,16 @@
+{
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "roles": ["admin", "user"],
+    "isActive": true,
+    "createdAt": "2023-10-01T12:00:00Z",
+    "profile": {
+        "age": 30,
+        "gender": "male",
+        "preferences": {
+            "newsletter": true,
+            "notifications": ["email", "sms"]
+        }
+    }
+}
